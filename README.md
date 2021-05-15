@@ -15,3 +15,12 @@ GETTING STARTED
 3 - Create superuser
     python manage.py createsuperuser
     
+# Download & Setup Instructions
+
+* 1 - Clone project: git clone https://github.com/abhikrit1212/Today-s-Plan.git
+* 2 - cd todo_list
+* 3 - Create virtual environment: virtualenv myenv
+* 4 - myenv\scripts\activate
+* 5 - pip install -r requirements.txt
+* 6 - python manage.py runserver
+    
